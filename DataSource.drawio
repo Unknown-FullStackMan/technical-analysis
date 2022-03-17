@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T02:53:20.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="n4aH8ZRFcTiCVMnLTnfk" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T02:55:55.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="nC4MaQ10GFSbNUARr6aN" version="17.1.3" type="github">
   <diagram id="SYCsL_mroomPuzhFgq2t" name="第 1 页">
     <mxGraphModel dx="2249" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,10 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMfeQQ4bzZob6dWzVVmY-16" value="DruidDataSource&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1. extends&amp;nbsp;DruidAbstractDataSource&lt;br&gt;2.&amp;nbsp;public void configFromPropety(Properties properties)&lt;br&gt;" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="238" y="940" width="430" height="140" as="geometry" />
+          <mxGeometry x="238" y="870.74" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PMfeQQ4bzZob6dWzVVmY-18" value="DruidAbstractDataSource&lt;br&gt;&lt;br&gt;&lt;br&gt;1.@ConfigurationProperties(&quot;spring.datasource.druid&quot;)&lt;br&gt;2.extends DruidDataSource&amp;nbsp;&lt;br&gt;3.&lt;span&gt;&amp;nbsp; &amp;nbsp; @Autowired&lt;/span&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private DataSourceProperties basicProperties;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238" y="1250" width="430" height="140" as="geometry" />
+          <mxGeometry x="238" y="1200" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PMfeQQ4bzZob6dWzVVmY-21" value="配置案例01" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-400" y="40" width="123" height="20" as="geometry" />
